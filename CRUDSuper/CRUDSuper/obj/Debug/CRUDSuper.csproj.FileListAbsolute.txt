@@ -1,0 +1,10 @@
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\bin\Debug\CRUDSuper.exe.config
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\bin\Debug\CRUDSuper.exe
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\bin\Debug\CRUDSuper.pdb
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\obj\Debug\CRUDSuper.csprojAssemblyReference.cache
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\obj\Debug\CRUDSuper.Crud.resources
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\obj\Debug\CRUDSuper.Properties.Resources.resources
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\obj\Debug\CRUDSuper.csproj.GenerateResource.cache
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\obj\Debug\CRUDSuper.csproj.CoreCompileInputs.cache
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\obj\Debug\CRUDSuper.exe
+C:\Users\chumo\source\repos\CRUDSuper\CRUDSuper\obj\Debug\CRUDSuper.pdb
